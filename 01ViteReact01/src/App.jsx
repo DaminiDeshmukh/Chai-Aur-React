@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Chai from './chai.jsx'
 import viteLogo from '/vite.svg'
 
 
@@ -7,7 +7,7 @@ function App() {
  
 
   return (
-    <h1>chai aur react with vite|mini</h1>
+    <Chai />
   )
 }
 

@@ -1,11 +1,12 @@
 
-
+import Chai from './chai.js'
 function App() {
   return (
     <>
     <h1>Kem Shoo</h1>
+    <Chai />
     <p>
-    # Chai-Aur-React
+    {/* # Chai-Aur-React
 react was developed by fb
 
 #node package maanger-npm comes with node js
@@ -110,7 +111,7 @@ Specifies which files and folders Git should ignore when committing code to a re
 
 
 
-
+ */}
 
     </p>
     </>
